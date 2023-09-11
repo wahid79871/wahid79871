@@ -1,5 +1,5 @@
-#### Hi, it's great to see you! 👋
-<h1 align="center">Hi 👋, I'm Md. Wahidul Islam</h1>
+## Hi, it's great to see you! 👋
+<h1 align="center">I'm Md. Wahidul Islam</h1>
 <h3 align="center">A tech-loving full-stack developer with a passion for building.</h3>
 
 <h3 align="left">Connect with me:</h3>
