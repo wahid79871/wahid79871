@@ -1,10 +1,15 @@
-<img src="https://scontent.fcgp17-1.fna.fbcdn.net/v/t39.30808-6/361325500_284169614256722_7965576458239752075_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=a2f6c7&_nc_ohc=2BiW8R1DS14AX-Qs-LY&_nc_ht=scontent.fcgp17-1.fna&oh=00_AfDCEUQthvRUU7ur095Saq4Ji19AIA1b9Rdz-Zwc6OW9Jg&oe=65046A80">
-## Hi, it's great to see you! 👋
+
+   <meta name="viewport" content="width=device-width, initial-scale=1" />
+
+  <div style="text-align:center">
+<img src="https://scontent.fcgp17-1.fna.fbcdn.net/v/t39.30808-6/361325500_284169614256722_7965576458239752075_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=a2f6c7&_nc_ohc=2BiW8R1DS14AX-Qs-LY&_nc_ht=scontent.fcgp17-1.fna&oh=00_AfDCEUQthvRUU7ur095Saq4Ji19AIA1b9Rdz-Zwc6OW9Jg&oe=65046A80" height="auto" width="80%" "></div>
+##Hi, it's great to see you! 👋
+
 <h1 align="center">I'm Md. Wahidul Islam</h1>
 <h3 align="center">A tech-loving full-stack developer with a passion for building.</h3>
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="left"><a href="https://fb.com/wahid79871" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="wahid79871" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
